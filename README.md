@@ -82,6 +82,4 @@ Event venues
 
 👤 Author
 prachi patel
-Your Name
 
-Hackathon / Academic Project
