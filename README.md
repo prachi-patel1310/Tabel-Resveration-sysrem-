@@ -1,2 +1,87 @@
-# Restaurant-Table-Reservation
-A restaurant table booking system, by which customer can book a table and can order food menu for their meal, from any registered restaurant of this system. For this system there are two types of user. First one is restaurant authority, at first they have to register to this system and have to provide their food menu and price for the menu. And the second one is the customer for the restaurant. To book a table of a restaurant, customer must have to register at this system. To register this system customer have to provide their name, phone number and email. Then they will be able to choose a restaurant and select a table for the restaurant. They also have to choose the food menu from that restaurant's provide menu. They also have to provide the time when they want to come to take their meal. Then they have to pay the cost of the meal by BKash or Rocket or other payment method that the system accept. After payment customer will get a conformation E-Mail to his email.
+🍽️ Table Reservation System
+
+A web-based Table Reservation System that allows users to book tables online and helps restaurants manage reservations efficiently. This project is built using PHP, HTML, CSS/SCSS, JavaScript, and Bootstrap.
+
+🚀 Features
+
+Online table reservation
+
+User registration and login
+
+Email account verification
+
+Reservation management
+
+Responsive design using Bootstrap
+
+Interactive UI components
+
+🛠️ Tech Stack
+Frontend
+
+HTML5
+
+CSS3 / SCSS
+
+JavaScript
+
+Bootstrap
+
+Backend
+
+PHP
+
+Tools
+
+XAMPP / WAMP
+
+Git & GitHub
+
+📂 Project Structure
+TableReservation/
+│
+├── scss/                 # SCSS styles
+├── vendor/               # Third-party libraries
+├── verifyaccount.php     # Email verification
+├── *.php                 # PHP backend files
+├── assets/               # CSS, JS, Images
+└── README.md
+
+⚙️ Installation & Setup
+
+Install XAMPP or WAMP
+
+Copy the project folder into:
+
+htdocs/ (XAMPP)
+
+
+Start Apache server
+
+Open browser and visit:
+
+http://localhost/TableReservation
+
+🔐 Account Verification
+
+After registration, users receive a verification email
+
+Account activation is handled through verifyaccount.php
+
+🎯 Use Case
+
+This project is suitable for:
+
+Restaurants
+
+Cafes
+
+Food courts
+
+Event venues
+
+👤 Author
+prachi patel
+Your Name
+
+Hackathon / Academic Project
